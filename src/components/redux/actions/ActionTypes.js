@@ -1,0 +1,7 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const SIGNUP_USER = "SIGNUP_USER";
+
+export const DEPOSIT_FUNDS = "DEPOSIT_FUNDS";
+export const TRANSFER_FUNDS = "TRANSFER_FUNDS";
+export const WITHDRAW_FUNDS = "WITHDRAW_FUNDS";

@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "uranium_bank",
+    "slug": "uranium_bank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/homescsq.png",
+    "splash": {
+      "image": "./assets/splashscsq.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splashscsq.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.chukwunazaekpere.uranium_bank"
+    },
+    "web": {
+      "favicon": "./assets/splashscsq.png"
+    },
+    "notification": {
+      "icon": "./assets/notificationicon.png"
+    },
+    "description": "A mobile banking app for transactions and authentication. Built using RN, Redux, Mongo and NodeJS",
+    "githubUrl": "https://github.com/Chukwunazaekpere/Uranium.git"
+  }
+}
